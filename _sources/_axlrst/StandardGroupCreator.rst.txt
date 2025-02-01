@@ -1,0 +1,11 @@
+.. image:: ../images/IFPENVF_quadri.jpg
+   :scale: 8 %
+   :align: right
+
+.. _StandardGroupCreator:
+
+:index:`StandardGroupCreator`
+=========================================================
+
+.. datatemplate:xml:: ../../../../ArcGeoSim/src/ArcGeoSim/Numerics/GroupCreator/StandardGroupCreator.axl
+   :template: axl.tmpl

@@ -1,0 +1,11 @@
+.. image:: ../images/IFPENVF_quadri.jpg
+   :scale: 8 %
+   :align: right
+
+.. _IXM4Writer:
+
+:index:`IXM4Writer`
+=========================================================
+
+.. datatemplate:xml:: ../../../../ArcGeoSim/src/ArcGeoSim/Mesh/Exporters/IXM4Writer.axl
+   :template: axl.tmpl

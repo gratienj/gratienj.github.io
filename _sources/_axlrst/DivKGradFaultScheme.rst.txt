@@ -1,0 +1,11 @@
+.. image:: ../images/IFPENVF_quadri.jpg
+   :scale: 8 %
+   :align: right
+
+.. _DivKGradFaultScheme:
+
+:index:`DivKGradFaultScheme`
+=========================================================
+
+.. datatemplate:xml:: ../../../../ArcGeoSim/src/ArcGeoSim/Numerics/DiscreteOperator/DivKGradFaultSchemeImpl/DivKGradFaultScheme.axl
+   :template: axl.tmpl
