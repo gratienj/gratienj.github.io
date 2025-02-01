@@ -1,0 +1,11 @@
+.. image:: ../images/IFPENVF_quadri.jpg
+   :scale: 8 %
+   :align: right
+
+.. _PreCICE:
+
+:index:`PreCICE`
+=========================================================
+
+.. datatemplate:xml:: ../../../../ArcGeoSim/src/ArcGeoSim/Utils/CAWF/PreCICE.axl
+   :template: axl.tmpl

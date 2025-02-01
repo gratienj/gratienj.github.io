@@ -1,0 +1,11 @@
+.. image:: ../images/IFPENVF_quadri.jpg
+   :scale: 8 %
+   :align: right
+
+.. _StaticFaultMng:
+
+:index:`StaticFaultMng`
+=========================================================
+
+.. datatemplate:xml:: ../../../../ArcGeoPhy/src/ArcGeoPhy/Faults/FaultMng/StaticFaultMng.axl
+   :template: axl.tmpl

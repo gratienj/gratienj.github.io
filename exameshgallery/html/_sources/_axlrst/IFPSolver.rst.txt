@@ -1,0 +1,11 @@
+.. image:: ../images/IFPENVF_quadri.jpg
+   :scale: 8 %
+   :align: right
+
+.. _IFPSolver:
+
+:index:`IFPSolver`
+=========================================================
+
+.. datatemplate:xml:: ../axl_from_framework/IFPSolver.axl
+   :template: axl.tmpl

@@ -1,0 +1,11 @@
+.. image:: ../images/IFPENVF_quadri.jpg
+   :scale: 8 %
+   :align: right
+
+.. _PhysicalConstantMng:
+
+:index:`PhysicalConstantMng`
+=========================================================
+
+.. datatemplate:xml:: ../../../../ArcGeoPhy/src/ArcGeoPhy/PhysicalConstants/PhysicalConstantMng.axl
+   :template: axl.tmpl
